@@ -200,7 +200,5 @@ OnDestroy , we unsubscribe the live view model
 
 </span></pre>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EQih-h0S8cg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe> 
-
 &nbsp;
 Originally published in http://thoughtnerds.com/android-livedata-room-database-tutorial/
