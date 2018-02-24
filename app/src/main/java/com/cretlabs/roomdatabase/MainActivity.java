@@ -84,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+
     public void showSchoolData(List<School> schoolList) {
         StringBuilder sb = new StringBuilder();
         for (School school : schoolList) {
